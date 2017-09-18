@@ -1,21 +1,6 @@
 # MeetingNotes
-## output team
-### 聊天機器人順序
 
-- 先訂閱自己的team
-- 介紹功能
-- 接收問題/收回饋單
-- 重設訂閱
+## Meeting List
 
-### 功能(呈現方式)
-
-- 賽程: 圖片
-- 隊伍名稱要寫死: 一定要打幾個字
-- 比賽結果: 文字，要排版
-- 推播: 比賽/檢錄/裁判/提醒
-- 回饋單: 輸入關鍵字
-- 聊天
-- 輸入英文要注意大小寫
-- 輸入**隊伍**時，呈現所有隊伍
-
-### 尚未討論出用甚麼平台寫
+- [2017-06-24](https://github.com/nckucsiewv/MeetingNotes/blob/master/2017-06-24.md)
+- [2017-09-18](https://github.com/nckucsiewv/MeetingNotes/blob/master/2017-09-18.md)
