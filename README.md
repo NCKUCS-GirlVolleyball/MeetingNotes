@@ -12,6 +12,6 @@
   - create repo and install platform
   - dispatch missions
 - [2017-10-02](https://github.com/nckucsiewv/MeetingNotes/blob/master/2017-10-02.md)
-  - update on progress
-  - dispatch missions
+  - update on progress
+  - dispatch missions
 
