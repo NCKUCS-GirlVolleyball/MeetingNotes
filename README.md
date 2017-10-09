@@ -14,4 +14,7 @@
 - [2017-10-02](https://github.com/nckucsiewv/MeetingNotes/blob/master/2017-10-02.md)
   - update on progress
   - dispatch missions
+- [2017-10-09](https://github.com/nckucsiewv/MeetingNotes/blob/master/2017-10-09.md)
+  - update on progress
+  - dispatch missions
 
