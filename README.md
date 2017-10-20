@@ -17,4 +17,6 @@
 - [2017-10-09](https://github.com/nckucsiewv/MeetingNotes/blob/master/2017-10-09.md)
   - update on progress
   - dispatch missions
-
+- [2017-10-16](https://github.com/nckucsiewv/MeetingNotes/blob/master/2017-10-16.md)
+  - integrate all features (first version)
+  - dispatch missions of revisions
