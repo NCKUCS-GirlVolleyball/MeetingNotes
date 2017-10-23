@@ -20,3 +20,5 @@
 - [2017-10-16](https://github.com/nckucsiewv/MeetingNotes/blob/master/2017-10-16.md)
   - integrate all features (first version)
   - dispatch missions of revisions
+- [2017-10-23](https://github.com/nckucsiewv/MeetingNotes/blob/master/2017-10-23.md)
+  - discuss ideas of game
